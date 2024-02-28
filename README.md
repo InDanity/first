@@ -1,2 +1,1 @@
-# first
-test of git
+This term sucked. I like this class so far though.
